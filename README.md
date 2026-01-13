@@ -6,7 +6,7 @@
 
 This applcation is intended for informational and illustrative purposes and does not constitute legal advice. 
 
-This is a prototype hacked together on a weekend with Google AI studio, it is not a production-grade application. At its core the TL;DR relies on probilistic generative AI to perform analysis, which by definition means that it will contain inaccuracies and irregularities. It is not a substitute for human judgment or the advice of qualified legal counsel. Use at your own discretion.
+This is a prototype hacked together on a weekend with Google AI studio, it is not a production-grade application. At its core the TL;DR relies on probabilistic generative AI to perform analysis, which by definition means that it will contain inaccuracies and irregularities. It is not a substitute for human judgment or the advice of qualified legal counsel. Use at your own discretion.
 
 If you want try out the application contains everything you need to run your app locally.
 
